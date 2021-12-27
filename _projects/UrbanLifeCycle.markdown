@@ -8,6 +8,8 @@ importance: 1
 
 We build a general equilibrium, heterogeneous agent, incomplete markets version of a classic urban residential choice model. House prices and rents are non-linear functions of location and size. We examine why families with young children move and buy homes in suburban areas even though observationally similar rentals are relatively cheap.
 
+Working with Lars Nesheim.
+
 <!-- Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.
