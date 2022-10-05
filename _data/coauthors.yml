@@ -19,6 +19,8 @@
 
 "Nesheim":
   - firstname: ["Lars"]
+    url:
 
 "Oswald":
   - firstname: ["Florian"]
+      url: https://floswald.github.io/

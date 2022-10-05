@@ -7,6 +7,7 @@ description: <a href="https://mays.tamu.edu/department-of-finance/">Finance Dept
 profile:
   align: right
   image: JonathanHALKET.jpg
+  image_circular: false # crops the image to make it circular
   address: >
     <p>351-J</p>
     <p>Wehner Building</p>

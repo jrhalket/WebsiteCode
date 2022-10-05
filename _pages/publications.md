@@ -5,6 +5,7 @@ title: Publications
 description:
 years: [2020, 2018, 2015, 2014, 2006, 2005, 2004, 2002]
 nav: true
+nav_order: 1
 
 ---
 <style>

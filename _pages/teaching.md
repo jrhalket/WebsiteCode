@@ -4,6 +4,7 @@ permalink: /teaching/
 title: Teaching
 description: Courses taught - past & present
 nav: true
+nav_order: 5
 ---
 
 <h3 class="mt-4">Mays Business School, Texas A&M University</h3>
