@@ -3,7 +3,7 @@ layout: page
 title: The Urban Life Cycle of Households
 description: Heterogeneous agents living in a city
 img: assets/img/12.jpg
-importance: 1
+importance: 3
 ---
 
 We build a general equilibrium, heterogeneous agent, incomplete markets version of a classic urban residential choice model. House prices and rents are non-linear functions of location and size. We examine why families with young children move and buy homes in suburban areas even though observationally similar rentals are relatively cheap.
