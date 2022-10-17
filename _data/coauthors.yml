@@ -1,8 +1,24 @@
 
 "Nesheim":
   - firstname: ["Lars"]
-    url:
+    url: https://www.cemmap.ac.uk/person/lars-nesheim/
 
 "Oswald":
   - firstname: ["Florian"]
     url: https://floswald.github.io
+
+"Mysliwski":
+  - firstname: ["Mateusz"]
+    url: https://www.mysliw.ski
+
+"Fox":
+  - firstname: ["Jeremy"]
+    url: http://fox.web.rice.edu/
+
+"Amior":
+  - firstname: ["Michael"]
+    url: https://sites.google.com/site/michaelamior/
+
+"Gupta":
+  - firstname: ["Abhimanyu"]
+    url: https://sites.google.com/site/abhimanyugupta85/
